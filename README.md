@@ -1,5 +1,5 @@
 
-# Rock, Paper and Scissor
+# Rock, Paper and Scissor Game
 
 -> It's based on the real world Rock, Paper and Scissor
 -> Using the tkinter library created this game. When click one of the button which title as Rock, Paper and Scissor
